@@ -1,5 +1,5 @@
 body {
-    background-color: #FF9733;
+    background-color: #72EEA8;
     color: #fff;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 500;
@@ -47,7 +47,7 @@ nav > ul > li:hover > a > .caret {
 }
 
 #principal {
-	background-color: #FFA133;
+	background-color: #72EEA8;
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
